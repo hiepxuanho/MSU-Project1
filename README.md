@@ -12,7 +12,7 @@ This project leverages the FIFA 21 dataset, which contains detailed information 
    - Conducting Physical vs. performance analysis to find their relation.
 
 ## Repository Files
-- fifa21final: jupyter notebook containing all the code.
+- fifa21-final: jupyter notebook containing all the code.
 - data folder: holds the fifa21 database file obtained from kaggle.com
 - Conclusion document: Word file with the project analysis and conclusion written by the team members. 
 
