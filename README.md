@@ -14,7 +14,8 @@ This project leverages the FIFA 21 dataset, which contains detailed information 
 ## Repository Files
 - fifa21-final: jupyter notebook containing all the code.
 - data folder: holds the fifa21 database file obtained from kaggle.com
-- Conclusion document: Word file with the project analysis and conclusion written by the team members. 
+- Conclusion document: Word file with the project analysis and conclusion written by the team members.
+- FIFA 2021 Database Analysis.pdf: presentation slides
 
 ## Resources
 For help debugging our code or for technical issues, we used tools like Google searches, ChatGPT, our instructor, our TA, and class notes. 
